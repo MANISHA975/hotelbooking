@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/interior-bedroom-white-creamy-tones_181624-16134.jpg?w=1060&t=st=1679291024~exp=1679291624~hmac=08da663cb1689777bdcdb05724571aa795edc9f3ef19210a1c06335de4c7fb12");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    display: d-flex;
+    direction: column;
+    justify-content: center;
+}
+.btn1{
+    padding: 10px;
+    margin-bottom: 60px;
+    margin: 20px;
+    color: aliceblue;
+    border-radius: 12px;
+    font-size: 20px;
+}
+.room-booking{
+    color: aliceblue;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.name-heading{
+    columns: black;
+    font-family: "Roboto";
+    font-size: 22px;
+    margin-left: 30px;
+}
+.place-holder{
+    border-radius: 10px;
+    border-color: beige;
+    width: 400px;
+    height: 40px;
+}
+.bg-container1{
+    background-color:gainsboro;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+    display: d-flex;
+    direction: column;
+    justify-content: center;
+}
